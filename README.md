@@ -3,7 +3,7 @@
 ## Features:
 Multiplayer mode: Two Players are playing against each other.
 
-Single-player mode: Only Single Player is playing against an implemented smart algorithm that tries to win the game. 
+Single-player mode: User plays against an implemented smart algorithm that tries to win the game. 
 
 ## Inputs:
 •	An input to select between the two modes.
