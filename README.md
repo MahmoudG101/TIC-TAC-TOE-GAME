@@ -1,11 +1,11 @@
 # TIC-TAC-TOE-GAME
 
-## Features
+## Features:
 Multiplayer mode: Two Players are playing against each other.
 
 Single-player mode: Only Single Player is playing against an implemented smart algorithm that tries to win the game. 
 
-## Input
+## Inputs:
 •	An input to select between the two modes.
 
 •	Input with the position of where to place your sign on the tic tac toe board using the NUMPAD.
@@ -27,7 +27,7 @@ The Software Displays:
 
 •	A guiding text that asks if the player wants to play again or if the player wants to quit the game.
 
-## Algorithm
+## Algorithm:
 Single player mode is implemented that tries to win the game against the user by using MiniMax_alpha_beta algorithm.
 
 Minimax algorithm is a recursive or backtracking method used in game theory and decision-making. It gives the optimum move for the player, assuming the opponent is also playing at their best during the game.
