@@ -28,7 +28,4 @@ The Software Displays:
 •	A guiding text that asks if the player wants to play again or if the player wants to quit the game.
 
 ## Algorithm:
-Single player mode is implemented that tries to win the game against the user by using MiniMax_alpha_beta algorithm.
-
-Minimax algorithm is a recursive or backtracking method used in game theory and decision-making. It gives the optimum move for the player, assuming the opponent is also playing at their best during the game.
-
+Single player mode is implemented that tries to win the game against the user. It gives the optimum move for the player, assuming the opponent is also playing at their best during the game. 
