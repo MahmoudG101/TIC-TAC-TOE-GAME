@@ -19,7 +19,7 @@ Single-player mode: User plays against an implemented smart algorithm that tries
 ## Display:
 The Software Displays: 
 
-•	A Text that asks the user to choose between the Two Modes (single player or multiplayer).
+•	A Text that asks the user to choose between the Two Modes (Multiplayer or Single-player).
 
 •	The Board empty at the game beginning, then it displays the updated board after each player’s turn.
 
